@@ -1,0 +1,11 @@
+
+all_good_vis/
+__pycache__/
+.idea
+
+*.pyc
+*.ipynb
+*.txt
+*.xml
+*.zip
+*.tar
